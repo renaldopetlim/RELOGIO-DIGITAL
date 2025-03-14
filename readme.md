@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido a partir de uma aula no Youtube, para fins de prá
 Link: https://relogio-digital-css.netlify.app/
 
 ### Responsividade Desktop:
-<img src="/readme/responsividade-desktop.png" width="480px">
+<img src="/readme/responsividade-desktop.png" width="720px">
 
 ### Responsividade Mobile:
 <img src="/readme/android.jpg" width="480px">
